@@ -1,0 +1,27 @@
+{
+  "name": "swagger",
+  "version": "1.0.0",
+  "description": "Trying out Swagger for API documentation and mock data, with a react front-end and express back-end.",
+  "homepage": "https://github.com/alicegmn/swagger#readme",
+  "bugs": {
+    "url": "https://github.com/alicegmn/swagger/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alicegmn/swagger.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "nodemon": "^3.1.10",
+    "swagger-jsdoc": "^6.2.8",
+    "swagger-ui-express": "^5.0.1"
+  }
+}
